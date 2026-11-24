@@ -34,7 +34,7 @@ adb install -r TvDualManager-v2.0.4.apk
 ### 校验
 
 ```
-SHA-256  见附件校验值
+SHA-256  a1936a98bf0ec0a449ecdc353b7eb9023b15588ad9d524ddffaf010201b1a52b
 签名      v1+v2+v3，证书 CN=TvDual
 minSdk    24    targetSdk 33
 ```
