@@ -1,0 +1,23 @@
+# 构建产物
+build/
+out/
+dist/
+*.apk
+*.idsig
+*.dex
+*.class
+__pycache__/
+*.pyc
+
+# 签名与凭据（绝不入库）
+keystore/
+*.jks
+*.keystore
+*.properties
+
+# 编辑器 / 系统
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log

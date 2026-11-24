@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">演示播放器</string>
+    <string name="pkg_name">com.demo.tvplayer</string>
+    <string name="provider_auth">com.demo.tvplayer.provider</string>
+</resources>
